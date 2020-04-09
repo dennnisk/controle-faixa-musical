@@ -21,5 +21,6 @@ C:\(...)\ControleFaixasMuscais.exe PLAY_PAUSE
 
 Download:
 
-[Download da última versão](ControleFaixasMuscais/bin/Release/ControleFaixasMuscais.exe)
+
+[Download da última versão](https://github.com/dennnisk/controle-faixa-musical/raw/master/ControleFaixasMuscais/bin/Release/ControleFaixasMuscais.exe)
 
