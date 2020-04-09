@@ -1,0 +1,4 @@
+C:\JJW - Sistemas\src\PrjControleFaixasMusicaisCSharp\ControleFaixasMuscais\ControleFaixasMuscais\bin\Release\ControleFaixasMuscais.exe
+C:\JJW - Sistemas\src\PrjControleFaixasMusicaisCSharp\ControleFaixasMuscais\ControleFaixasMuscais\bin\Release\ControleFaixasMuscais.pdb
+C:\JJW - Sistemas\src\PrjControleFaixasMusicaisCSharp\ControleFaixasMuscais\ControleFaixasMuscais\obj\x86\Release\ControleFaixasMuscais.exe
+C:\JJW - Sistemas\src\PrjControleFaixasMusicaisCSharp\ControleFaixasMuscais\ControleFaixasMuscais\obj\x86\Release\ControleFaixasMuscais.pdb
