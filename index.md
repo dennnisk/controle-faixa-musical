@@ -26,7 +26,7 @@ C:\(...)\ControleFaixasMuscais.exe PLAY_PAUSE
 
 ## Download, last version:
 
-[Last Version](https://github.com/dennnisk/controle-faixa-musical/raw/master/ControleFaixasMuscais/bin/Release/ControleFaixasMuscais.exe)
+[Last Version](https://github.com/dennnisk/controle-faixa-musical/releases/download/v1.0/ControleFaixasMuscais.exe)
 
 ### Support or Contact
 
