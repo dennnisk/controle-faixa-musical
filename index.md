@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# Music player control
 
-You can use the [editor on GitHub](https://github.com/dennnisk/controle-faixa-musical/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I build this simple software to call the OS Keyboard event `VK_MEDIA_NEXT_TRACK` from my keyboard to go to the next music (who doesn't have a specific key to do this).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have an Logitech K270 (at the time) who doesn't have a specific key for advance the sound track. But, they have a software that allow to configure some key functions.
+Before I can only increase, decrease and play/pause buttons. Now I change the "home" button to go to the next sound.
 
-### Markdown
+So, this software can be atached to the logitech setPoint to call the this functions: NEXT, PREVIOUS, etc...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# How to use
 
-# Header 1
-## Header 2
-### Header 3
+```bash
+# Default, go to next music
+C:\(...)\ControleFaixasMuscais.exe
 
-- Bulleted
-- List
+# Explicit call to next music
+C:\(...)\ControleFaixasMuscais.exe NEXT
 
-1. Numbered
-2. List
+# Call to previous music
+C:\(...)\ControleFaixasMuscais.exe PREVIOUS
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Call to Play or Pause
+C:\(...)\ControleFaixasMuscais.exe PLAY_PAUSE
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Download, last version:
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dennnisk/controle-faixa-musical/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Download da última versão](https://github.com/dennnisk/controle-faixa-musical/raw/master/ControleFaixasMuscais/bin/Release/ControleFaixasMuscais.exe)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Create and issue if you need.
